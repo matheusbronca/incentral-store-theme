@@ -1,0 +1,7 @@
+{
+  "pokemon-list#custom": {
+    "props": {
+      "quantity": 3
+    }
+  }
+}
